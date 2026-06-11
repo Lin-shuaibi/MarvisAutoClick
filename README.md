@@ -1,6 +1,8 @@
 # MarvisAutoClick
 
 **Auto-click "Confirm" dialogs so your AI agents don't stall while you're away.**
+<img width="561" height="559" alt="image" src="https://github.com/user-attachments/assets/77276f5a-7a05-47e7-9810-ae921463424d" />
+
 
 In the AI agent era, we set up automated pipelines, batch jobs, and AI workflows. They run great—until a modal pops up:
 
